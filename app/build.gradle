@@ -37,5 +37,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     //implementation 'com.example.myloginlibrary:1.0'
     //implementation(':myloginlibrary')
+    implementation 'com.github.PravallikaBandla:Login-Application:0.1.0'
+
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
