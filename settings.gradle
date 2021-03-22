@@ -1,0 +1,3 @@
+include ':myloginlibrary'
+include ':app'
+rootProject.name = "LoginApplication"
